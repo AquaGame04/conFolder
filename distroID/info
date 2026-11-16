@@ -1,0 +1,10 @@
+RELEASE=1
+CODENAME=Editor
+EDITION="Cinnamon 64-bit"
+DESCRIPTION="Linux Editor 1 09"
+DESKTOP=Gnome
+TOOLKIT=GTK
+NEW_FEATURES_URL=https://www.linuxmint.com/rel_wilma_whatsnew.php
+RELEASE_NOTES_URL=https://www.linuxmint.com/rel_wilma.php
+USER_GUIDE_URL=https://www.linuxmint.com/documentation.php
+GRUB_TITLE=Linux Editor 1 09 Cinnamon 64-bit

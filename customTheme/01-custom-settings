@@ -1,0 +1,14 @@
+[org/cinnamon/desktop/interface]
+gtk-theme='Mint-Modern-Office-Night-1.4.9'
+icon-theme='windows-modern'
+cursor-theme='MacOSX'
+
+[org/cinnamon/theme]
+name='Mint-Modern-Office-Night-1.4.9'
+
+[org/cinnamon/desktop/background]
+picture-uri='file:///usr/share/backgrounds/linuxmint/wpp-l-4.png'
+
+[org/cinnamon/applets/menu@cinnamon.org]
+menu-icon='/usr/share/icons/hicolor/scalable/apps/linux-mint-editor-logo.svg'
+menu-icon-custom=true
